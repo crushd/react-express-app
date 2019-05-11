@@ -1,3 +1,7 @@
+// React Auth Example
+// https://github.com/faizanv/react-auth-example
+
+
 const express = require('express');
 const bodyParser = require('body-parser')
 const path = require('path');
